@@ -1,0 +1,9 @@
+.cart {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.cart h2 {
+  margin-bottom: 15px;
+}
